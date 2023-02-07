@@ -1,15 +1,10 @@
 {
   "name": "umi-plugin-preload",
-  "version": "0.2.5",
+  "version": "0.0.1",
   "description": "Support preload async chunk for improve page loading performance",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/umijs/umi-plugin-preload"
-  },
-  "homepage": "https://github.com/umijs/umi-plugin-preload",
   "authors": [
-    "yutingzhao1991 <yutingzhao1991@sina.com>"
+    "denghongtao <denght_1106@qq.com>"
   ],
   "bugs": {
     "url": "https://github.com/umijs/umi-plugin-preload/issues"
