@@ -1,6 +1,6 @@
 {
   "name": "xpht-umi-plugin-preload",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "Support preload async chunk for improve page loading performance",
   "license": "MIT",
   "authors": [
